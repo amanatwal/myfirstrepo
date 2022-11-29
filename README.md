@@ -1,2 +1,1 @@
-# myfirstrepo
-This is a test repo
+# example_app
